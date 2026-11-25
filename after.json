@@ -1,0 +1,37 @@
+[
+  {
+    "width": 1366,
+    "height": 430,
+    "listHeight": 298,
+    "scrollHeight": 2354,
+    "rows": 77,
+    "overflow": "auto"
+  },
+  {
+    "width": 1366,
+    "height": 768,
+    "listHeight": 486,
+    "scrollHeight": 2354,
+    "rows": 77,
+    "overflow": "auto"
+  },
+  {
+    "width": 1199,
+    "height": 430,
+    "listHeight": 2354,
+    "scrollHeight": 2354,
+    "rows": 77,
+    "overflow": "visible"
+  },
+  {
+    "lastPluginSelected": "table-active"
+  },
+  {
+    "filteredRows": 1,
+    "filteredHeight": 61
+  },
+  {
+    "tabTitle": "Logbook",
+    "errors": []
+  }
+]
